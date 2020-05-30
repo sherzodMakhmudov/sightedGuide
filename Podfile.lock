@@ -1,0 +1,76 @@
+PODS:
+  - Alamofire (4.8.2)
+  - AlamofireImage (3.5.2):
+    - Alamofire (~> 4.8)
+  - AWSAuthCore (2.9.8):
+    - AWSCore (= 2.9.8)
+  - AWSAuthUI (2.9.8):
+    - AWSAuthCore (= 2.9.8)
+    - AWSCore (= 2.9.8)
+  - AWSCognitoIdentityProvider (2.9.8):
+    - AWSCognitoIdentityProviderASF (= 1.0.1)
+    - AWSCore (= 2.9.8)
+  - AWSCognitoIdentityProviderASF (1.0.1)
+  - AWSCore (2.9.8)
+  - AWSMobileClient (2.9.8):
+    - AWSAuthCore (= 2.9.8)
+    - AWSCognitoIdentityProvider (= 2.9.8)
+  - AWSUserPoolsSignIn (2.9.8):
+    - AWSAuthCore (= 2.9.8)
+    - AWSCognitoIdentityProvider (= 2.9.8)
+  - Bolts/Tasks (1.9.0)
+  - IBMWatsonRestKit (3.0.1)
+  - IBMWatsonTextToSpeechV1 (2.0.3):
+    - IBMWatsonRestKit (~> 3.0.0)
+  - IBMWatsonVisualRecognitionV3 (2.0.3):
+    - IBMWatsonRestKit (~> 3.0.0)
+  - Parse (1.14.2):
+    - Bolts/Tasks (~> 1.8)
+
+DEPENDENCIES:
+  - Alamofire
+  - AlamofireImage
+  - AWSAuthUI (~> 2.9.0)
+  - AWSCore (~> 2.9.0)
+  - AWSMobileClient (~> 2.9.0)
+  - AWSUserPoolsSignIn (~> 2.9.0)
+  - IBMWatsonTextToSpeechV1 (~> 2.0.3)
+  - IBMWatsonVisualRecognitionV3 (~> 2.0.3)
+  - Parse (= 1.14.2)
+
+SPEC REPOS:
+  https://github.com/cocoapods/specs.git:
+    - Alamofire
+    - AlamofireImage
+    - AWSAuthCore
+    - AWSAuthUI
+    - AWSCognitoIdentityProvider
+    - AWSCognitoIdentityProviderASF
+    - AWSCore
+    - AWSMobileClient
+    - AWSUserPoolsSignIn
+    - Bolts
+    - IBMWatsonRestKit
+    - IBMWatsonTextToSpeechV1
+    - IBMWatsonVisualRecognitionV3
+    - Parse
+
+SPEC CHECKSUMS:
+  Alamofire: ae5c501addb7afdbb13687d7f2f722c78734c2d3
+  AlamofireImage: 63cfe3baf1370be6c498149687cf6db3e3b00999
+  AWSAuthCore: 7ebbe523f28149a1706e7ec1736203cdaaeba380
+  AWSAuthUI: 0f3c2c19606776ba990136ca2d2e81518eb08afe
+  AWSCognitoIdentityProvider: 738b488930eca71cbaa91ac53764b146e90a6650
+  AWSCognitoIdentityProviderASF: f94f1a502e72ef3d0a1de93e10bf7a79c8698118
+  AWSCore: 5da86c5afde44a87b06a2df50601bca81a8cee13
+  AWSMobileClient: d3b6cbe30dcdb45866c85b0d088106504f72d4a3
+  AWSUserPoolsSignIn: 127aebb7fd668b4e897063c34356f9e25a576b84
+  Bolts: ac6567323eac61e203f6a9763667d0f711be34c8
+  IBMWatsonRestKit: 73dbe7b437bfefa6105ccee6795c1ada2ef80594
+  IBMWatsonTextToSpeechV1: 0c61014424ada4f89ea0da0f909f017e84ccd9b8
+  IBMWatsonVisualRecognitionV3: 4c19e90497a727c2ca47368f6259e09abd7fe57c
+  Parse: 4335d65f40cb3d43190d723144bbe1afb9c38230
+
+PODFILE CHECKSUM: 9b74f15bbd6f1bb4779f161431d499ac5defb48f
+
+COCOAPODS: 1.6.2

@@ -1,0 +1,19 @@
+{
+    "dev": {
+        "awscloudformation": {
+            "AuthRoleName": "sightedguide-dev-20190518170537-authRole",
+            "UnauthRoleArn": "arn:aws:iam::312135485381:role/sightedguide-dev-20190518170537-unauthRole",
+            "AuthRoleArn": "arn:aws:iam::312135485381:role/sightedguide-dev-20190518170537-authRole",
+            "Region": "us-east-1",
+            "DeploymentBucketName": "sightedguide-dev-20190518170537-deployment",
+            "UnauthRoleName": "sightedguide-dev-20190518170537-unauthRole",
+            "StackName": "sightedguide-dev-20190518170537",
+            "StackId": "arn:aws:cloudformation:us-east-1:312135485381:stack/sightedguide-dev-20190518170537/d4ea40e0-79c9-11e9-a692-0a437bda7b86"
+        },
+        "categories": {
+            "auth": {
+                "cognitoecff5e13": {}
+            }
+        }
+    }
+}
